@@ -1,0 +1,1 @@
+men_table[i-1][j-1]
